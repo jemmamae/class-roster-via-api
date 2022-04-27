@@ -2,7 +2,7 @@
 
 
 // Data source
-const url = "https://picsum.photos/v2/list";
+const url = "https://v1.nocodeapi.com/pmanikoth/webflow/wtzODovSIJsRXhZg";
 
 // Get data
 fetch(url)
